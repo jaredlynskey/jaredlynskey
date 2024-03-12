@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jared and I'm a Engineering Manager, living in Seoul</p>
+<p align="left">My name is Jared and I'm an Engineering Manager, living in Seoul</p>
 
 ###
 
