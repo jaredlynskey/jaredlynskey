@@ -4,7 +4,7 @@
 
 <p align="left">My name is Jared and I'm an Engineering Manager, living in Seoul</p>
 
-Visit my (https://jared.lynskey.co.nz/)[blog] for more info!
+Visit my [https://jared.lynskey.co.nz](blog) for more info!
 
 ###
 
