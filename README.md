@@ -4,13 +4,7 @@
 
 <p align="left">My name is Jared and I'm an Engineering Manager, living in Seoul</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ages ago<br>📚 I'm currently learning Springboot and Devops
+Visit my (https://jared.lynskey.co.nz/)[blog] for more info!
 
 ###
 
